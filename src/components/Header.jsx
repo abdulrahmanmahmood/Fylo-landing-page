@@ -18,7 +18,7 @@ const Header = () => {
     <header ref={headerRef} className="pt-[60px] fixed top-0 w-full z-50 transition-all duration-200">
       <div className="container mx-auto flex justify-between items-center px-[60px] sm:gap-5 gap-[30px]  flex-col sm:flex-row ">
         <a href="/" >
-          <img src="/src/assets/images/logo.svg" alt="logo-img" />
+          <img src="../../src/assets/images/logo.svg" alt="logo-img" />
         </a>
         <nav>
           <ul className="flex items-center gap-12 ">
