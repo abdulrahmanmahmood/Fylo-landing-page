@@ -2,7 +2,8 @@
 
 A responsive landing page for Fylo, a challenge from Frontend Mentor. Built using React, Tailwind CSS, and Vite for a seamless development experience.
 
-![Fylo Landing Page]![image](https://github.com/abdulrahmanmahmood/Fylo-landing-page-/assets/126025222/5e5af193-a7b9-4dc8-bc6e-7a3ac55f26f3)
+![Fylo Landing Page]![image]![image](https://github.com/abdulrahmanmahmood/Fylo-landing-page/assets/126025222/ef71262b-bd09-4055-a4a0-a2b4da688e9b)
+
 
 
 ## Features
