@@ -5,7 +5,7 @@ const Landing = () => {
         <div className="element-center flex-col pt-[200px]">
           <div className="w-[750px] max-w-full ">
             <img
-              src="/src/assets/images/illustration-intro.png"
+              src="../../src/assets/images/illustration-intro.png"
               alt="landing page"
               className="w-full h-fit"
             />
